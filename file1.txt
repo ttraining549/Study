@@ -1,2 +1,5 @@
+A
 first commit
+B
 second commit
+C
